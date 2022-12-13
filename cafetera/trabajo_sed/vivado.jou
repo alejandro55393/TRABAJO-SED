@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Tue Dec 13 15:54:01 2022
+# Process ID: 7888
+# Current directory: C:/Users/jorge/Downloads/CAFETERA/trabajo_sed
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10000 C:\Users\jorge\Downloads\CAFETERA\trabajo_sed\trabajo_sed.xpr
+# Log file: C:/Users/jorge/Downloads/CAFETERA/trabajo_sed/vivado.log
+# Journal file: C:/Users/jorge/Downloads/CAFETERA/trabajo_sed\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jorge/Downloads/CAFETERA/trabajo_sed/trabajo_sed.xpr
+update_compile_order -fileset sources_1
